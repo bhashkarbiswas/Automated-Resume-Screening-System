@@ -1,0 +1,517 @@
+skill
+Java
+Python
+C
+C++
+C#
+JavaScript
+TypeScript
+Go
+Kotlin
+Swift
+PHP
+R
+Scala
+Ruby
+Dart
+MATLAB
+Perl
+Rust
+Shell Scripting
+Bash
+
+Object-Oriented Programming
+OOP
+Exception Handling
+Multithreading
+Collections Framework
+Generics
+Lambda Expressions
+Streams API
+JDBC
+Servlet
+JSP
+Spring
+Spring Boot
+Spring MVC
+Spring Security
+Hibernate
+JPA
+REST API
+RESTful API
+Microservices
+Maven
+Gradle
+JUnit
+Mockito
+Log4j
+Apache Tomcat
+WildFly
+NetBeans
+Eclipse
+IntelliJ IDEA
+JavaFX
+
+Core Python
+Advanced Python
+Python Scripting
+OOP in Python
+Django
+Flask
+FastAPI
+Pandas
+NumPy
+Matplotlib
+Seaborn
+SciPy
+Scikit-learn
+OpenCV
+TensorFlow
+PyTorch
+Keras
+NLTK
+spaCy
+BeautifulSoup
+Scrapy
+Selenium
+Requests
+PyTest
+Jupyter Notebook
+Google Colab
+Anaconda
+Virtual Environment
+PIP
+
+HTML
+HTML5
+CSS
+CSS3
+Bootstrap
+Tailwind CSS
+React
+ReactJS
+Redux
+Next.js
+Angular
+Vue.js
+jQuery
+AJAX
+JSON
+XML
+Responsive Web Design
+UI Development
+
+Node.js
+Express.js
+GraphQL
+Socket.IO
+JWT
+Authentication
+Authorization
+Session Management
+Cookie Management
+API Integration
+MVC Architecture
+ORM
+Prisma
+Sequelize
+
+MERN Stack
+MEAN Stack
+MEVN Stack
+Full Stack Development
+Frontend Development
+Backend Development
+Web Development
+Single Page Application
+SPA
+Progressive Web App
+PWA
+
+Android
+Android Studio
+Kotlin
+Firebase
+Room Database
+SQLite
+Jetpack Compose
+Material Design
+MVVM
+RecyclerView
+Fragments
+Activities
+Intent
+Broadcast Receiver
+Content Provider
+Android SDK
+Google Maps API
+Push Notifications
+
+Artificial Intelligence
+AI
+Machine Learning
+ML
+Deep Learning
+Neural Networks
+Artificial Neural Networks
+ANN
+Convolutional Neural Network
+CNN
+Recurrent Neural Network
+RNN
+Long Short-Term Memory
+LSTM
+Transformer
+Large Language Model
+LLM
+Generative AI
+Prompt Engineering
+Retrieval-Augmented Generation
+RAG
+Natural Language Processing
+NLP
+Text Mining
+Sentiment Analysis
+Named Entity Recognition
+NER
+Text Classification
+Topic Modeling
+Tokenization
+Lemmatization
+Stemming
+Speech Recognition
+Chatbot Development
+Question Answering
+Machine Translation
+Computer Vision
+Image Processing
+Object Detection
+Face Recognition
+Image Classification
+OCR
+Optical Character Recognition
+
+
+XGBoost
+LightGBM
+CatBoost
+Gensim
+Hugging Face Transformers
+LangChain
+LlamaIndex
+
+Data Science
+Data Analysis
+Data Analytics
+Business Analytics
+Predictive Analytics
+Statistical Analysis
+Exploratory Data Analysis
+EDA
+Feature Engineering
+Feature Selection
+Data Cleaning
+Data Preprocessing
+Data Wrangling
+Data Mining
+Data Visualization
+Big Data
+Business Intelligence
+BI
+
+Plotly
+Bokeh
+Power BI
+Tableau
+Microsoft Excel
+Google Sheets
+
+Regression
+Linear Regression
+Logistic Regression
+Decision Tree
+Random Forest
+Support Vector Machine
+SVM
+K-Nearest Neighbors
+KNN
+Naive Bayes
+K-Means Clustering
+Hierarchical Clustering
+DBSCAN
+Principal Component Analysis
+PCA
+Association Rule Mining
+Time Series Analysis
+Forecasting
+Classification
+Clustering
+Recommendation System
+Model Evaluation
+Hyperparameter Tuning
+Cross Validation
+Confusion Matrix
+Accuracy
+Precision
+Recall
+F1-score
+ROC Curve
+AUC
+
+SQL
+MySQL
+PostgreSQL
+Oracle Database
+Microsoft SQL Server
+MariaDB
+MongoDB
+Cassandra
+Redis
+Firebase Realtime Database
+Cloud Firestore
+Neo4j
+DynamoDB
+Database Design
+Database Administration
+Database Optimization
+Normalization
+Denormalization
+Stored Procedures
+Triggers
+Views
+Indexes
+Transactions
+ACID Properties
+PL/SQL
+
+Cloud Computing
+Amazon Web Services
+AWS
+Microsoft Azure
+Azure
+Google Cloud Platform
+GCP
+Oracle Cloud
+IBM Cloud
+Cloud Storage
+Cloud Migration
+Serverless Computing
+Virtual Machine
+Virtualization
+Load Balancing
+Auto Scaling
+Amazon EC2
+Amazon S3
+AWS Lambda
+Amazon RDS
+Amazon IAM
+Azure Virtual Machines
+Azure Functions
+Google Compute Engine
+
+DevOps
+CI/CD
+Continuous Integration
+Continuous Deployment
+Docker
+Docker Compose
+Kubernetes
+Jenkins
+Git
+GitHub
+GitLab
+Bitbucket
+Terraform
+Ansible
+Chef
+Puppet
+Helm
+Nginx
+Apache HTTP Server
+Linux
+Ubuntu
+CentOS
+Red Hat Enterprise Linux
+Bash Scripting
+YAML
+
+Cybersecurity
+Network Security
+Application Security
+Web Security
+Cloud Security
+Ethical Hacking
+Penetration Testing
+Vulnerability Assessment
+OWASP
+Cryptography
+Encryption
+Decryption
+Firewalls
+Identity and Access Management
+IAM
+Multi-Factor Authentication
+MFA
+Digital Forensics
+Security Information and Event Management
+SIEM
+Kali Linux
+Metasploit
+Wireshark
+Nmap
+Burp Suite
+Cyber Threat Intelligence
+
+Software Testing
+Software Quality Assurance
+QA
+Manual Testing
+Automation Testing
+Unit Testing
+Integration Testing
+System Testing
+Regression Testing
+Smoke Testing
+Sanity Testing
+Black Box Testing
+White Box Testing
+Functional Testing
+Non-Functional Testing
+Performance Testing
+Load Testing
+Stress Testing
+API Testing
+Selenium WebDriver
+TestNG
+Postman
+JMeter
+Bug Tracking
+JIRA
+Agile Testing
+Test Case Design
+Defect Management
+
+Data Structures
+Algorithms
+Design and Analysis of Algorithms
+Operating System
+Operating Systems
+OS
+Database Management System
+DBMS
+Computer Networks
+CN
+Software Engineering
+Compiler Design
+Compiler Construction
+Theory of Computation
+TOC
+Discrete Mathematics
+Computer Organization
+Computer Architecture
+Digital Logic
+Object-Oriented Analysis and Design
+OOAD
+System Design
+Low Level Design
+LLD
+High Level Design
+HLD
+Distributed Systems
+Parallel Computing
+Concurrent Programming
+Multiprocessing
+Memory Management
+Process Scheduling
+Deadlock
+Synchronization
+Paging
+Virtual Memory
+Networking
+TCP/IP
+UDP
+FTP
+DNS
+DHCP
+Socket Programming
+RPC
+Web Services
+SOAP
+REST Architecture
+
+Software Development Life Cycle
+SDLC
+Agile
+Scrum
+Kanban
+Waterfall Model
+Spiral Model
+V Model
+Rapid Application Development
+RAD
+Extreme Programming
+XP
+Requirement Analysis
+System Analysis
+Software Design
+Software Maintenance
+Software Documentation
+Code Review
+Code Refactoring
+Debugging
+Problem Solving
+Analytical Thinking
+
+Design Patterns
+MVC
+Singleton Pattern
+Factory Pattern
+Builder Pattern
+Observer Pattern
+Strategy Pattern
+Dependency Injection
+SOLID Principles
+Clean Code
+
+Visual Studio Code
+VS Code
+Visual Studio
+
+PyCharm
+GitHub Desktop
+Git Bash
+Command Line
+Terminal
+Linux Terminal
+
+Figma
+Adobe XD
+Canva
+Wireframing
+Prototyping
+User Interface Design
+UI Design
+User Experience
+UX Design
+Responsive Design
+
+Communication
+Written Communication
+Verbal Communication
+Presentation Skills
+Public Speaking
+Teamwork
+Collaboration
+Leadership
+Time Management
+Critical Thinking
+Decision Making
+Creativity
+Adaptability
+Self Learning
+Research Skills
+Project Management
+Documentation
+Client Communication
+Interpersonal Skills
+Attention to Detail
